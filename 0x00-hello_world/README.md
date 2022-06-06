@@ -3,4 +3,5 @@
 2-assemble generates assembly code for c file
 3-name compiles a c file and a create an executable
 4-puts.c  prints followed by a new line
-
+5-printf.c prints exactly folowed by a new line
+6-size.c  prints size of various types
